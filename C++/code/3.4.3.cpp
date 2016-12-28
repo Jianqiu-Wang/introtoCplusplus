@@ -7,7 +7,6 @@ int main() {
 		int N;
 		cin >> N;
 		
-
 		if (( N >= 0 ) && ( N % 5 == 0 )) {
 			cout << N << endl;
 		}
